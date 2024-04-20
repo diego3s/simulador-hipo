@@ -8,6 +8,9 @@
     <a href="#autores">Autores</a>
 </p>  
 
+
+<div id='descricao'/>
+
 ## ⌨️ Descrição do projeto
 
 ![Funcionamento](https://github.com/diego3s/simulador-hipo/assets/51541419/35aa3718-4765-40ea-a993-7b04c9d59ff8)
@@ -18,6 +21,9 @@ O simulador recebe como entrada um arquivo-texto contendo o programa para o HIPO
 
 >[!NOTE]
 >Consulte a especificação do computador HIPO em: https://www.ime.usp.br/~jstern/miscellanea/MaterialDidatico/hipo.htm
+
+
+<div id='pre-requisitos'/>  
 
 ## 📋 Pré-requisitos
 
@@ -33,6 +39,8 @@ sudo apt-get install gcc
 
 **SFML:**
 > [Instalar a SFML](https://www.sfml-dev.org/tutorials/2.6/start-linux.php)
+
+<div id='instalacao'/>  
 
 ## ⚒ Instalação
 
@@ -54,11 +62,15 @@ make
 ./simulador-hipo
 ```
 
+<div id='como-usar'/>  
+
 ## 💡 Como usar
 
 Após executar o programa, informe o caminho para o arquivo .hipo desejado, depois execute o passo a passo do programa(F5), os inputs e outputs são mostrados no terminal. 
 
 > Acesse o diretório ./exemplos para códigos de teste.
+
+<div id='autores'/>  
 
 ## 🖋 Autores
 - Bruno Henrique
