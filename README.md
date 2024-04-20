@@ -19,8 +19,7 @@ Simulador para o computador HIPO construído como trabalho para a disciplina de 
 
 O simulador recebe como entrada um arquivo-texto contendo o programa para o HIPO e mostra a execução passo a passo.
 
->[!NOTE]
->Consulte a especificação do computador HIPO em: https://www.ime.usp.br/~jstern/miscellanea/MaterialDidatico/hipo.htm
+> Consulte a especificação do computador HIPO em: https://www.ime.usp.br/~jstern/miscellanea/MaterialDidatico/hipo.htm
 
 
 <div id='pre-requisitos'/>  
